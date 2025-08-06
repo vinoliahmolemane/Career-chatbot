@@ -2,6 +2,12 @@
 
 An intelligent chatbot that helps users explore suitable career options based on their interests using Cohere’s AI embeddings. This app allows users to:
 
+## Live Demo
+
+Try the Career Chatbot live here:  
+[ Career Chatbot Demo](https://career-chatbot-mbxdcbsgk52w7z6qcq7w57.streamlit.app/)
+
+
 -  Input free-form interests or career queries
 -  Get smart career recommendations with confidence scores
 -  Chat with the assistant about career paths
