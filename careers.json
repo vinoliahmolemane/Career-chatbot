@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Software Developer",
+    "tags": ["technology", "coding", "logic", "math", "programming"],
+    "description": "Develop applications, websites, and software systems."
+  },
+  {
+    "title": "Psychologist",
+    "tags": ["people", "mental health", "empathy", "listening", "support"],
+    "description": "Support mental well-being and emotional health of individuals."
+  },
+  {
+    "title": "Graphic Designer",
+    "tags": ["art", "creativity", "design", "branding", "visuals"],
+    "description": "Design graphics for branding, ads, websites, and more."
+  },
+  {
+    "title": "Entrepreneur",
+    "tags": ["business", "innovation", "leadership", "sales", "strategy"],
+    "description": "Create and manage your own businesses or startups."
+  },
+  {
+    "title": "Data Scientist",
+    "tags": ["data", "statistics", "machine learning", "analytics", "math"],
+    "description": "Analyze large datasets to extract insights and make decisions."
+  },
+  {
+    "title": "Teacher",
+    "tags": ["education", "learning", "mentoring", "communication", "students"],
+    "description": "Educate and inspire students in a school or academic setting."
+  },
+  {
+    "title": "Nurse",
+    "tags": ["healthcare", "caregiving", "patients", "medicine", "empathy"],
+    "description": "Provide medical and emotional support to patients in need."
+  },
+  {
+    "title": "Civil Engineer",
+    "tags": ["infrastructure", "design", "construction", "math", "planning"],
+    "description": "Design and oversee construction of public infrastructure."
+  },
+  {
+    "title": "Chef",
+    "tags": ["cooking", "creativity", "flavor", "hospitality", "food"],
+    "description": "Create and prepare meals in restaurants or other food settings."
+  },
+  {
+    "title": "Social Worker",
+    "tags": ["support", "community", "advocacy", "families", "empathy"],
+    "description": "Help individuals and communities improve their well-being."
+  },
+  {
+    "title": "Journalist",
+    "tags": ["writing", "research", "communication", "news", "truth"],
+    "description": "Investigate and report news stories to the public."
+  },
+  {
+    "title": "Digital Marketer",
+    "tags": ["online", "ads", "social media", "strategy", "branding"],
+    "description": "Promote products or services using digital platforms and tools."
+  },
+  {
+    "title": "Environmental Scientist",
+    "tags": ["nature", "science", "sustainability", "research", "conservation"],
+    "description": "Study the environment and develop solutions to protect it."
+  },
+  {
+    "title": "UX Designer",
+    "tags": ["user experience", "design", "interface", "usability", "technology"],
+    "description": "Design digital interfaces that are intuitive and user-friendly."
+  },
+  {
+    "title": "AI Developer",
+    "tags": ["artificial intelligence", "coding", "automation", "neural networks", "algorithms"],
+    "description": "Build intelligent systems that simulate human thinking and decision-making."
+  },
+  {
+    "title": "Machine Learning Developer",
+    "tags": ["machine learning", "models", "data", "python", "AI"],
+    "description": "Design and deploy models that allow computers to learn from data without explicit programming."
+  }
+]
