@@ -34,20 +34,6 @@ Try the Career Chatbot live here:
 - Streamlit
 - NumPy
 - JSON
-
----
-
-##  Project Structure
-Career_Chatbot/
-│
-├── app.py # Main Streamlit app
-├── utils.py # Core logic: embedding & matching
-├── careers.json # Sample career data (editable)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
-
 ---
 ##  Setup Instructions
 
